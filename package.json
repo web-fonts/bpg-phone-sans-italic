@@ -1,7 +1,7 @@
 {
   "name": "bpg-phone-sans-italic",
-  "version": "0.0.1",
-  "description": "BPG Phone Sans Italic Web Font",
+  "version": "1.0.0",
+  "description": "BPG Phone Sans Italic Web-Font Package",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-phone-sans-italic"],
   "main": "css/bpg-phone-sans-italic.css",
   "homepage": "https://github.com/web-fonts/bpg-phone-sans-italic",
@@ -10,5 +10,14 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-phone-sans-italic.git"
   },
-  "license": "MIT"
+  "licenses": [
+    {
+      "type": "CC-BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+   }
+  ]
 }
